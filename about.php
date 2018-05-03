@@ -5,7 +5,7 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <title>Red Salute1</title>
+    <title>Red Salute</title>
 
     <meta name="author" content="themesflat.com">
 
