@@ -81,7 +81,7 @@
 							
 						</div>
 					</li>
-					<li data-transition="fade">
+					<!--<li data-transition="fade">
 						<img src="images/slider2.jpg" data-bgposition="center center" data-bgrepeat="no-repeat" alt="Slide">
 						<div class="tp-caption tp-resizeme" data-x="center" data-y="center" data-width="full" data-height="auto" data-whitespace="normal" data-transform_in="o:0;s:2000;" data-transform_idle="o:1;" data-transform_out="o:0;s:1500;e:Power3.easeInOut;" data-start="1000">
 							<div class="text-center">
@@ -89,7 +89,7 @@
 							
 							</div>
 						</div>
-					</li>
+					</li>-->
 					<li data-transition="fade">
 						<img src="images/slider3.jpg" data-bgposition="center center" data-bgrepeat="no-repeat" alt="Slide">
 						<div class="tp-caption tp-resizeme" data-x="left" data-y="center" data-width="full" data-height="auto" data-whitespace="normal" data-transform_in="o:0;s:2000;" data-transform_idle="o:1;" data-transform_out="o:0;s:1500;e:Power3.easeInOut;" data-start="1000">
