@@ -74,14 +74,14 @@
 		<div class="revolution-slider-wrapper">
 			<section id="slider-fullwidth" class="rev_slider education-slider no-padding">
 				<ul>
-					<li data-transition="fade">
+					<!--<li data-transition="fade">
 						<img src="images/slider1.jpg" data-bgposition="center top" data-bgrepeat="no-repeat" alt="Slide">
 						<div class="tp-caption tp-resizeme" data-x="left" data-y="center" data-width="full" data-height="auto" data-whitespace="normal" data-transform_in="o:0;s:2000;" data-transform_idle="o:1;" data-transform_out="o:0;s:1500;e:Power3.easeInOut;" data-start="1000">
 							<p class="lead"><span>We will make outsourcing <br>work for your business</span></p>
 							
 						</div>
-					</li>
-					<!--<li data-transition="fade">
+					</li>-->
+					<li data-transition="fade">
 						<img src="images/slider2.jpg" data-bgposition="center center" data-bgrepeat="no-repeat" alt="Slide">
 						<div class="tp-caption tp-resizeme" data-x="center" data-y="center" data-width="full" data-height="auto" data-whitespace="normal" data-transform_in="o:0;s:2000;" data-transform_idle="o:1;" data-transform_out="o:0;s:1500;e:Power3.easeInOut;" data-start="1000">
 							<div class="text-center">
@@ -89,14 +89,14 @@
 							
 							</div>
 						</div>
-					</li>-->
-					<li data-transition="fade">
+					</li>
+					<!--<li data-transition="fade">
 						<img src="images/slider3.jpg" data-bgposition="center center" data-bgrepeat="no-repeat" alt="Slide">
 						<div class="tp-caption tp-resizeme" data-x="left" data-y="center" data-width="full" data-height="auto" data-whitespace="normal" data-transform_in="o:0;s:2000;" data-transform_idle="o:1;" data-transform_out="o:0;s:1500;e:Power3.easeInOut;" data-start="1000">
 							<p class="lead"><span>since 2004 enjoy the incredible benefits of outsourcing.<br> Join our list of happy clients today.</span></p>
 							
 						</div>
-					</li>
+					</li>-->
 				</ul>
 			</section>
 		</div>
