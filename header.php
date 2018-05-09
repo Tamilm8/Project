@@ -1,5 +1,5 @@
  <!--<style>
- .dropdown1 {
+/*  .dropdown1 {
    /*  float: left;
     overflow: hidden; */
 }
@@ -22,7 +22,7 @@
 }
 .dropdown1:hover .dropdown-content1 {
     display: block;
-}
+} */
  </style>-->
   <!-- Header --> 
                 <div class="container-fluid">   
@@ -38,7 +38,7 @@
                         <div class="btn-menu">
                             <i class="ti-align-right"></i>
                         </div><!-- //mobile menu button --> 
-                     
+                     <br><br>
                         <div class="nav-flat-wrap dropdown-content1">
 						
                             <div class="nav-wrap">                            
