@@ -1135,6 +1135,7 @@ ul.flat-infomation li::before { position: absolute; right: 0; top: 5px; content:
     width: 70.2%;
     position: absolute;
     margin-left: 26%;
+	 margin-top: 60px;
 }
 
 #mainnav > ul, .nav-footer > ul {
