@@ -904,7 +904,7 @@ ul.flat-infomation li::before { position: absolute; right: 0; top: 5px; content:
     transition: all 0.2s ease-in-out;
 }
 
-.header.header-style2.downscrolled .logo { margin: 25px 0 0 0; } 
+.header.header-style2.downscrolled .logo { margin: 0px 0 0 0; } 
 .header-style2.downscrolled #mainnav > ul > li > a { padding: 47px 0px 38px; } 
 .downscrolled #mainnav > ul > li > a, .downscrolled .menu-extra > ul > li > a, .header-btn.downscrolled .btn-menu, .header-addsocial.downscrolled .flat-socials a { color: #fff; } 
 .downscrolled #mainnav.before-colorblack > ul > li > a::after { background-color: #fff;  } 
@@ -1131,11 +1131,12 @@ ul.flat-infomation li::before { position: absolute; right: 0; top: 5px; content:
 }
 
 .nav-flat-wrap {
-	float: right;
+	float: left;
     width: 70.2%;
-    position: absolute;
-    margin-left: 26%;
-	 margin-top: 60px;
+	    margin-left: 20px;
+   /* position: absolute;
+     margin-left: 26%; */
+	    margin-top: -35px;
 }
 
 #mainnav > ul, .nav-footer > ul {
