@@ -37,7 +37,17 @@
     <!-- Favicon and touch icons  -->
     <link href="images/favicon.png" type="image/png" rel="icon" sizes="48x48">
   
-</head>                                 
+</head>    
+<style>
+	.nav-flat-wrap {
+	float: right;
+    width: 70.2%;
+	    margin-left: 20px;
+   /* position: absolute;
+     margin-left: 26%; */
+	    margin-top: -50px;
+}
+</style>
 <body class="header_sticky page-loading"> 
     <!-- Preloader -->
     <section class="loading-overlay">
